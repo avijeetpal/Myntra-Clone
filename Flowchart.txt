@@ -1,0 +1,9 @@
+1. Header and Navigation
+   > Logo, Navigation, Search bar, profile logo, wishlist, Blog.
+
+2. Main
+   > Banner Image
+   > Section as a collection of different items.
+   > Shop By Category
+
+3. Footer
